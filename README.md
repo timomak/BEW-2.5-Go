@@ -9,3 +9,5 @@
 6. [interface.go](https://gist.github.com/timomak/8ace0e660378614cc7997dba15ee6c2e)
 7. [ScrabblScore](https://gist.github.com/timomak/35b69f05910db62b4420469adfa6f241s)
 8. [Isogram] (https://gist.github.com/timomak/e9b3f3687f1710b8cddfb62cb14dde87)
+9. [Difference_Of_Squares](https://gist.github.com/timomak/737d051f2b2e2e567910485500ff1793)
+10. [Luhn](https://gist.github.com/timomak/72a21f557b9b646ed899e4a1eb8d9a6f)
