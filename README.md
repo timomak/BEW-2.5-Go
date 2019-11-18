@@ -11,4 +11,5 @@
 8. [Isogram] (https://gist.github.com/timomak/e9b3f3687f1710b8cddfb62cb14dde87)
 9. [Difference_Of_Squares](https://gist.github.com/timomak/737d051f2b2e2e567910485500ff1793)
 10. [Luhn](https://gist.github.com/timomak/72a21f557b9b646ed899e4a1eb8d9a6f)
-11. [Grains] (https://gist.github.com/timomak/61818f99cb5ecc915e491b2d31a067d6)
+11. [Grains](https://gist.github.com/timomak/61818f99cb5ecc915e491b2d31a067d6)
+12. [Clock](https://gist.github.com/timomak/81e00309d4eeb3393934909ce46f5b37)
